@@ -8751,4 +8751,7 @@
   <block id="31ef3dfd1e101bf5cf328ec387a10820" category="sidebar">볼륨 복사</block>
   <block id="41b4e5d916e26c9e0d32ceff6fd589ed" category="sidebar">운영 관리</block>
   <block id="0c54aa2356b1ba19bf4386215c1829f9" category="sidebar">이러한 볼륨이 워크로드와 관련이 없는 이유는 무엇입니까?</block>
+  <block id="fdaf387b2cf2a5e0708730deae924c52" category="section-title">버전 11.80.1R3의 새로운 기능</block>
+  <block id="a372f5d0e522484d2807c2713feb9e59" category="paragraph">이 버전에는 사소한 변경 사항만 포함되어 있으며 새로운 기능이나 제한 사항은 없습니다. 이 릴리스의 변경 사항에 대한 자세한 내용은 README 파일을 참조하십시오.</block>
+  <block id="cb495aee74d8e4c14850fb4a3882a508" category="section-title">버전 11.80.1R2의 새로운 기능</block>
 </blocks>
